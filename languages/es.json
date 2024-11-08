@@ -9,7 +9,7 @@
 
     "home": {
         "home_text-1": "Hola! Soy",
-        "home_text-3": "Desarrolladora web Front-End",
+        "home_text-3": "Desarrollador  web Front-End",
         "parrafo-info": "Estudiante de Estadistica y programación enfocada al Desarrollo Web Frontend. Como persona amante a los diseños intuitivos y estéticamente agradables busco crear proyectos que brinden la mejor experiencia para el usuario.",
         "cv_button": "Descargar CV",
         "contact_button": "Contacto"
@@ -28,7 +28,7 @@
         "title": "Formación",
         "formacion1": "Estadística",
         "tiempo-formacion1": "2019 - En curso",
-        "formacion2": "Desarrolladora Full-Stack",
+        "formacion2": "Desarrollador  Full-Stack",
         "tiempo-formacion2": "2022 - En curso",
         "formacion3": "Contabilización de Operaciones Comerciales y Financieras"
     },

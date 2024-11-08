@@ -7,7 +7,7 @@
 :root {
     --white: #FFFFFF;
     --light-grey: #D9D9D9;
-    --beaver: #A78976;
+    --beaver: #76a7a0;
     --black: #141414;
     --eerie-black: #1F1F1F;
     --jet: #292929;
@@ -40,7 +40,7 @@ html::-webkit-scrollbar-thumb {
 }
 
 ::selection {
-    background-color: #776254;
+    background-color: #54776d;
 }
 
 /* Header */
@@ -772,8 +772,8 @@ img.logo-sena {
 }
 
 .form-contact .input-invalid {
-    border: 1px solid #574438;
-    color: #574438;
+    border: 1px solid #385750;
+    color: #384d57;
 }
 
 .form-contact textarea {
