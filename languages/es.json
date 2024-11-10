@@ -9,15 +9,15 @@
 
     "home": {
         "home_text-1": "Hola! Soy",
-        "home_text-3": "Desarrollador  web Front-End",
-        "parrafo-info": "Estudiante de Estadistica y programación enfocada al Desarrollo Web Frontend. Como persona amante a los diseños intuitivos y estéticamente agradables busco crear proyectos que brinden la mejor experiencia para el usuario.",
+        "home_text-3": "Desarrollador  Full Stack",
+        "parrafo-info": "Ingeniero de Sofware y computacion enfocado a la continuidad Operacional en el desarrollo Full Stack",
         "cv_button": "Descargar CV",
         "contact_button": "Contacto"
     },
 
     "sobre-mi": {
         "title": "Sobre mí",
-        "texto_sobreMi": "Soy estudiante del pregrado de Estadística y estudiante autodidacta de Desarrollo Web enfocado en programación Frontend.<br>Aspiro conseguir empleo en el mundo del Desarrollo Web, adquirir experiencia, nuevos conocimientos y fortalecer mi vida profesional.<br><br>Soy una persona empática y entusiasta, con competencias enfocadas en el trabajo en equipo, comunicación asertiva, resolución de problemas, responsable y proactiva, me gusta aprender de los demás y superarme continuamente."
+        "texto_sobreMi": "Soy Ingeniero Full Stack .<br>Aspiro crecer en el mundo del Desarrollo , adquirir experiencia, nuevos conocimientos y fortalecer mi vida profesional.<br><br>Soy una persona empática y entusiasta, con competencias enfocadas en el trabajo en equipo, comunicación asertiva, resolución de problemas, responsable y proactiva, me gusta aprender de los demás y superarme continuamente."
     },
 
     "habilidades": {
@@ -26,8 +26,8 @@
 
     "formacion": {
         "title": "Formación",
-        "formacion1": "Estadística",
-        "tiempo-formacion1": "2019 - En curso",
+        "formacion1": "Ingenieria de Sitemas y computacion",
+        "tiempo-formacion1": "2016 - 2022",
         "formacion2": "Desarrollador  Full-Stack",
         "tiempo-formacion2": "2022 - En curso",
         "formacion3": "Contabilización de Operaciones Comerciales y Financieras"
