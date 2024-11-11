@@ -9,15 +9,15 @@
 
     "home": {
         "home_text-1": "Hi! I'm",
-        "home_text-3": "Front-End Web Developer",
-        "parrafo-info": "Statistics and programming student focused on Frontend Web Development. As a person who loves intuitive and aesthetically pleasing designs I seek to create projects that provide the best user experience.",
+        "home_text-3": "Sofware Engineer",
+        "parrafo-info": "Software and computing engineer focused on Operational Continuity in Full Stack development",
         "cv_button": "Download CV",
         "contact_button": "Contact"
     },
 
     "sobre-mi": {
         "title": "About me",
-        "texto_sobreMi": "I'm a Statistics undergraduate student and a self-taught Web Development student focused on Frontend programming.<br>I aspire to get a job in the Web Development world, gain experience, new knowledge and strengthen my professional life.<br><br>I'm an empathetic and enthusiastic person, with skills focused on teamwork, assertive communication, problem solving, responsible and proactive, I like to learn from others and continuously improve myself."
+        "texto_sobreMi": "I am a Full Stack Engineer. I aspire to grow in the Development world, gain experience, acquire new knowledge, and strengthen my professional life<br>I am an empathetic and enthusiastic person, with skills focused on teamwork, assertive communication, problem-solving, responsibility, and proactivity. I enjoy learning from others and continuously improving myself"
     },
 
     "habilidades": {
@@ -26,8 +26,8 @@
 
     "formacion": {
         "title": "Training",
-        "formacion1": "Statistic",
-        "tiempo-formacion1": "2019 - In progress",
+        "formacion1": "Software and computing engineer",
+        "tiempo-formacion1": "2016 - 2022",
         "formacion2": "Full-Stack Developer",
         "tiempo-formacion2": "2022 - In progress",
         "formacion3": "Accounting for Commercial and Financial Transactions"
