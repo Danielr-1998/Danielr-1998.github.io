@@ -7,7 +7,7 @@
 
 
 <picture class="container_image-home" data-aos="zoom-in">
-                <img class="image_home" src="./assets/images/image.png" alt="Ilustración mujer y plantas">
+                <img class="image_home" src="./assets/images/imagep.png" alt="Ilustración mujer y plantas">
             </picture>
 
 
