@@ -40,7 +40,9 @@
         "title-proyecto2": "Portafolio",
         "info-proyecto2": "Mi portafolio web personal, donde se encuentran algunos de mis proyectos más destacados, mis habilidades técnicas y un poco sobre mi formación.",
         "title-proyecto3": "Gestion de Inventarios",
-        "info-proyecto3": "Operaciones en bodega para la gestion de inventarios."
+        "info-proyecto3": "Operaciones en bodega para la gestion de inventarios.",
+        "title-proyecto4": "Comepanes",
+        "info-proyecto4": "Landing Page comercio local."
     },
 
     "contacto": {

@@ -40,7 +40,9 @@
         "title-proyecto2": "Portfolio",
         "info-proyecto2": "My personal web portfolio, where you can find some of my most outstanding projects, my technical skills and a bit about my background.",
         "title-proyecto3": "WMS ",
-        "info-proyecto3": "Warehouse operations for inventory management"
+        "info-proyecto3": "Warehouse operations for inventory management",
+        "title-proyecto4": "Comepanes",
+        "info-proyecto4": "Landing Page in a comerce."
     },
 
     "contacto": {
