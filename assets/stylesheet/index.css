@@ -961,3 +961,23 @@ footer {
         height: 6rem;
     }
 }
+/* Establecemos el contenedor de las cards como un grid */
+.cards_container--proyectos {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Tres columnas de igual tamaño */
+    gap: 20px; /* Espacio entre las tarjetas */
+    padding: 20px;
+}
+
+/* Esto es opcional, para hacer que las cards se ajusten en pantallas pequeñas */
+@media (max-width: 900px) {
+    .cards_container--proyectos {
+        grid-template-columns: repeat(2, 1fr); /* Dos columnas en pantallas pequeñas */
+    }
+}
+
+@media (max-width: 600px) {
+    .cards_container--proyectos {
+        grid-template-columns: 1fr; /* Una columna en pantallas más pequeñas */
+    }
+}
