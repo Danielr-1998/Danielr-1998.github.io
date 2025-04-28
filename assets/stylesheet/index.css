@@ -395,6 +395,7 @@ span+span {
     display: flex;
     flex-direction: column;
     padding: 4rem 3rem 3rem 3rem;
+    color: #007bff;
 }
 
 .title_sobreMi {
